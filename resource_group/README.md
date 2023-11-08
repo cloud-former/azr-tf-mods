@@ -22,9 +22,9 @@ resource_group[
 
 ## Inputs
 
-| Name          | Description                                                               | Type | Default | Required |
-|---------------|---------------------------------------------------------------------------|------|---------|:--------:|
-| name          | The Name which should be used for this Resource Group.                    |
+| Name          | Description                                                               | Type      | Default   | Required  |
+|---------------|---------------------------------------------------------------------------|-----------|-----------|:---------:|
+| name          | The Name which should be used for this Resource Group.                    | 'string'  |  'N/A'    |  yes      |   
 | location      | The Azure Region where the Resource Group should exist.                   |
 | managed_by    | The ID of the resource or application that manages this Resource Group.   |
 | location      | A mapping of tags which should be assigned to the Resource Group.         |
