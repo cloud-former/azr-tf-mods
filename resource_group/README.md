@@ -11,6 +11,10 @@ Azure: Resource Groups
 
 ## Inputs
 
+| Name      | Description                       | Type | Default | Required |
+|-----------|-----------------------------------|------|---------|:--------:|
+| name      | latest  |
+| azurerm   | latest  |
 
 ## Outputs
 
