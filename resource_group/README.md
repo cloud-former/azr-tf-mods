@@ -1,5 +1,5 @@
 <a href="https://terraform.io">
-    <img src="tf.png" alt="Terraform logo" title="Terraform" align="left" height="50" />
+    <img src="https://github.com/hashicorp/terraform-provider-azurerm/blob/main/.github/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50" />
 </a>
 
 <img src="../_resources/logos/tf.png?sanitize=true" alt="Image Description">
