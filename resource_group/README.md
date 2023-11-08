@@ -3,8 +3,7 @@
 </a>
 
 # Module: Azure Resource Group
-
-
+<br>
 Manages Azure Resource Groups.
 
 -> **Note:** Azure automatically deletes any Resources nested within the Resource Group when a Resource Group is deleted.
