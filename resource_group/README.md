@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/hashicorp/terraform-provider-azurerm/main/.github/tf.png" alt="Terraform logo" title="Terraform" align="left" height="40" />
 </a>
 
-# Module - Azure Resource Group
+# Module: Azure Resource Group
 
 ## Requirements
 
