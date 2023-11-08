@@ -1,5 +1,5 @@
 <a href="https://terraform.io">
-    <img src=".github/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50" />
+    <img src="./.resources/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50" />
 </a>
 
 # Terraform: Module - Azure Resource Group
