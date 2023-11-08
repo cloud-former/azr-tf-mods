@@ -4,6 +4,15 @@
 
 # Module: Azure Resource Group
 
+## Usage Example
+
+```hcl
+resource_group[
+    {"name":"name1",}
+
+]
+```
+
 ## Requirements
 
 | Name      | Version |
@@ -13,10 +22,13 @@
 
 ## Inputs
 
-| Name      | Description                       | Type | Default | Required |
-|-----------|-----------------------------------|------|---------|:--------:|
-| name      | latest  |
-| azurerm   | latest  |
+| Name          | Description                                                               | Type | Default | Required |
+|---------------|---------------------------------------------------------------------------|------|---------|:--------:|
+| name          | The Name which should be used for this Resource Group.                    |
+| location      | The Azure Region where the Resource Group should exist.                   |
+| managed_by    | The ID of the resource or application that manages this Resource Group.   |
+| location      | A mapping of tags which should be assigned to the Resource Group.         |
+
 
 ## Outputs
 
