@@ -4,6 +4,8 @@
 
 # Module: Azure Resource Group
 
+Manages Azure Resource Groups.
+
 ## Usage Example
 
 ```hcl
