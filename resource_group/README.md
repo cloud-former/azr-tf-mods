@@ -1,6 +1,8 @@
-# Description
+<a href="https://terraform.io">
+    <img src=".github/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50" />
+</a>
 
-Azure: Resource Groups
+# Terraform: Module - Azure Resource Group
 
 ## Requirements
 
