@@ -1,4 +1,4 @@
-<a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" alt="Terraform logo" title="Terraform" align="left" height="40"/></a>
+<a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" alt="Terraform logo" title="Terraform" align="left" height="25"/></a>
 # &nbsp;&nbsp;Module: Azure Resource Group</br>
 
 ## Description
