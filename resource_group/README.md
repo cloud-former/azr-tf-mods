@@ -1,6 +1,6 @@
 
 
-<a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50"/></a>
+<a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" alt="Terraform logo" title="Terraform" align="left" height="24"/></a>
 #   Module: Azure Resource Group
 <br><br>
 Manages Azure Resource Groups.
