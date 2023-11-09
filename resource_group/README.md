@@ -2,6 +2,7 @@
 <h1 style="color: #5C4EE5;">
     Module: Azure Resource Group
 </h1>
+
 ## Description
 Manages Azure Resource Groups.
 <br><br>
