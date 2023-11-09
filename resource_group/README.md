@@ -1,4 +1,4 @@
-<a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50"/></a>
+<a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" target="_blank" alt="Terraform logo" title="Terraform" align="left" height="50"/></a>
 # &nbsp;Module: Azure Resource Group</br>
 
 ## Description
@@ -45,6 +45,6 @@ N/A
 </br></br>
 <div align="right">
     <a href="https://cloudparter.io">
-        <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFarter Logo" title="CloudFormer" height="100"/>
+        <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" target="_blank" alt="CloudFarter Logo" title="CloudFormer" height="100"/>
     </a>
 </div>
