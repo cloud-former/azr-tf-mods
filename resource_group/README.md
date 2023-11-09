@@ -1,5 +1,5 @@
 <a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" target="_blank" alt="Terraform logo" title="Terraform" align="left" height="40"/></a>
-<h1 style="color: #5C4EE5;">
+<h1 style="color: #5C4EE5;">&nbsp;&nbsp;
     Module: Azure Resource Group
 </h1></br>
 
