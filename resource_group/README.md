@@ -1,7 +1,4 @@
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudParter Logo" height="100"/>
-</div>
 
 <a href="https://terraform.io">
     <img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50"/>
@@ -48,3 +45,8 @@ resource_group[
 ## Outputs
 
 N/A
+
+</br></br>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudParter Logo" height="100"/>
+</div>
