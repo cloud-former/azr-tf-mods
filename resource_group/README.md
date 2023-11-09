@@ -1,7 +1,7 @@
 <a href="https://terraform.io">
     <img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50"/>
 </a></br> by 
-<img src="../_resources/logos/cloudformer_trans.png" alt="CloudFormer logo" title="CloudFormer" align="left" height="50"/>
+<img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer logo" title="CloudFormer" align="left" height="50"/>
 # Module: Azure Resource Group
 <br><br>
 Manages Azure Resource Groups.
