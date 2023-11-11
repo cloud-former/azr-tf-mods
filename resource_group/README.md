@@ -7,6 +7,28 @@
     </div>
 </div>
 
+<table border="0" style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <!-- Column for Logo -->
+        <td style="width: 40px; vertical-align: top;">
+            <a href="https://cloudparter.io">
+                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" target="_blank" alt="CloudFarter Logo" title="CloudFormer" height="100"/>
+            </a>
+        </td>
+        <!-- Column for Text -->
+        <td style="vertical-align: top;">
+            <div style="font-size: 20px; line-height: 1.2;">
+                <h1 style="font-size: 48px; margin-bottom: 0;"><span style="color: #FFFFFF;">CloudFormer</span></h1>
+                <div>
+                    <span style="color: #7466F0; font-weight: bold;">TF Module:</span>&nbsp;
+                    <span style="color: #bac6cf; font-weight: bold;">Azure / Resource Group</span>
+                </div>
+            </div>
+        </td>
+    </tr>
+</table>
+
+
 
 ## Description
 Manages Azure Resource Groups.
