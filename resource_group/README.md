@@ -67,8 +67,6 @@ all_resource_group = [
     { name = "res_group_2", region = "eastus", tags = { "App" = "ProjectB", "Owner" = "TeamY" } },
     { name = "res_group_3", region = "eastus", tags = { "App" = "ProjectC", "Owner" = "TeamZ" } }
 ]
-
-
 ```
 
 
