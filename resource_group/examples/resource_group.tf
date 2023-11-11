@@ -8,14 +8,9 @@ module "resource_group" {
 }
 
 variable "environment" {
-  description = "The deployment environment (e.g., dev, staging, prod)"
+  description = "The deployment environment (e.g., dev, stg, prd)"
   type        = string
-  default     = "prod"
-}
-
-variable "subscription_id" {
-  description = "Azure subscription ID"
-  type        = string
+  default     = "prd"
 }
 
 variable "all_resource_group" {
