@@ -19,7 +19,7 @@
         <!-- Column for Logo -->
         <td style="vertical-align: middle; border: none; padding: 0; text-align: right;">
             <a href="https://cloudparter.io">
-                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" target="_blank" alt="CloudFarter Logo" title="CloudFormer" width="160" height="100"/>
+                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" target="_blank" alt="CloudFarter Logo" title="CloudFormer" width="300" height="100"/>
             </a>
         </td>
     </tr>
