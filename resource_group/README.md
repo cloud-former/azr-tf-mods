@@ -1,7 +1,7 @@
 <table border="0" style="width: 100%; border-collapse: collapse; padding: 0; margin: 0;">
     <tr>
         <!-- Column for Text -->
-        <td style="vertical-align: middle; border: none; padding: 0; width: 80%;">
+        <td style="vertical-align: middle; border: none; padding: 0; width: 20%;">
             <div style="font-size: 20px; line-height: 1.2; margin: 0;">
                 <h1 style="font-size: 48px; margin: 0;">
                     <a href="https://cloudformer.io" target="_blank" style="color: #FFFFFF; text-decoration: none;">
@@ -15,7 +15,7 @@
             </div>
         </td>
         <!-- Column for Logo -->
-        <td style="vertical-align: middle; border: none; padding: 0; text-align: right; white-space: nowrap; width: 20%;">
+        <td style="vertical-align: middle; border: none; padding: 0; text-align: right; white-space: nowrap; width: 80%;">
             <a href="https://cloudformer.io" target="_blank">
                 <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" style="height: 85px;">
             </a>
