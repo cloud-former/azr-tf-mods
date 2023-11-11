@@ -1,9 +1,8 @@
 <h1 style="font-size: 48px;"><span style="color: #bac6cf;">CloudFormer</span></h1>
 <!-- <a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" target="_blank" alt="Terraform logo" title="Terraform" align="left" height="40"/></a> -->
-<h1>
     <span style="color: #7466F0; font-size: 20px; font-weight: bold;">Module:</span>&nbsp;
     <span style="color: #FFFFFF; font-size: 20px; font-weight: bold;">Azure / Resource Group</span>
-</h1><br>
+<br>
 
 
 ## Description
