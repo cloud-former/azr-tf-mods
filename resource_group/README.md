@@ -16,7 +16,7 @@
         </td>
         <!-- Spacer Column -->
         <td style="vertical-align: middle; border: none; padding: 0; width: 100%;text-align: right;">
-            <a href="https://cloudparter.io">
+            <a href="https://cloudformer.io">
                 <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" target="_blank" alt="CloudFarter Logo" title="CloudFormer" width="160"/>
             </a>
         </td>
