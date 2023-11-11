@@ -10,7 +10,7 @@
                 </h1>
                 <div>
                     <span style="color: #7466F0; font-weight: bold;">TF Module:</span>&nbsp;
-                    <span style="color: #bac6cf; font-weight: bold;">Azure / Resource Group</span>
+                    <span style="color: #7a8a99; font-weight: bold;">Azure / Resource Group</span>
                 </div>
             </div>
         </td>
