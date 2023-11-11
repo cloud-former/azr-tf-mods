@@ -8,7 +8,7 @@ resource "azurerm_resource_group" "resource_group" {
   tags = merge(
     local.common_tags,
     {
-      "Environment"  = var.environment
+      "Environment"  = upper(var.environment)
       "Appcode"      = upper(substr(each.value.name, 7, 3))
       "Region"       = each.value.region
     },
