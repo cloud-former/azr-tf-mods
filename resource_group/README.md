@@ -69,9 +69,3 @@ resource_group[
 
 N/A
 
-</br></br>
-<div align="right">
-    <a href="https://cloudparter.io">
-        <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" target="_blank" alt="CloudFarter Logo" title="CloudFormer" height="100"/>
-    </a>
-</div>
