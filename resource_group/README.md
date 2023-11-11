@@ -25,14 +25,8 @@
 
 <table border="0" style="width: 100%; border-collapse: collapse; border: none;">
     <tr>
-        <!-- Column for Logo -->
-        <td style="vertical-align: middle; border: none;">
-            <a href="https://cloudformer.io" target="_blank">
-                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" style="height: 85px;">
-            </a>
-        </td>
         <!-- Column for Text -->
-        <td style="vertical-align: middle; border: none;">
+        <td style="vertical-align: middle; border: none; width: 80%;">
             <div style="font-size: 20px; line-height: 1.2;">
                 <h1 style="font-size: 48px; margin-bottom: 0;">
                     <a href="https://cloudformer.io" target="_blank" style="color: #FFFFFF; text-decoration: none;">
@@ -45,8 +39,15 @@
                 </div>
             </div>
         </td>
+        <!-- Column for Logo -->
+        <td style="vertical-align: middle; border: none; width: 20%; text-align: right;">
+            <a href="https://cloudformer.io" target="_blank">
+                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" style="height: 85px;">
+            </a>
+        </td>
     </tr>
 </table>
+
 
 
 ## Description
