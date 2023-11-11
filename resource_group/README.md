@@ -3,7 +3,6 @@
         <!-- Column for Logo -->
         <td style="vertical-align: middle;">
             <a href="https://cloudparter.io" target="_blank">
-
                 <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" style="height: 90px;">
             </a>
         </td>
