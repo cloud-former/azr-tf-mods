@@ -1,7 +1,7 @@
 <table border="0" style="width: 100%; border-collapse: collapse; padding: 0; margin: 0;">
     <tr>
         <!-- Column for Text -->
-        <td style="vertical-align: middle; border: none; padding: 0;">
+        <td style="vertical-align: middle; border: none; padding: 0; width: 500px;">
             <div style="font-size: 20px; line-height: 1.2; margin: 0;">
                 <h1 style="font-size: 48px; margin: 0;">
                     <a href="https://cloudformer.io" target="_blank" style="color: #FFFFFF; text-decoration: none;">
