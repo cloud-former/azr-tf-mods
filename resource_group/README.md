@@ -1,4 +1,4 @@
-<h1 style="font-size: 48px;"><span style="color: #deebf7;">CloudFormer</span></h1>
+<h1 style="font-size: 48px;"><span style="color: #199cdb;">CloudFormer</span></h1>
 <a href="https://terraform.io"><img src="https://raw.githubusercontent.com/cloud-former/logos/main/tf.png" target="_blank" alt="Terraform logo" title="Terraform" align="left" height="40"/></a>
 <h1>
     &nbsp;<span style="color: #5C4EE5;">Module:</span>&nbsp;
