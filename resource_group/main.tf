@@ -1,6 +1,6 @@
 # Create resources looped from list
 resource "azurerm_resource_group" "resource_group" {
-  for_each = { for rgs in local.all_rgs : rgs.name => rgs }
+  for_each = { for resource_groups in local.all_resource_group : resource_groups.name => resource_groups }
   name     = each.value.name
   location = each.value.region
 
@@ -9,7 +9,6 @@ resource "azurerm_resource_group" "resource_group" {
     local.common_tags,
     {
       "Environment"  = var.environment
-      "Subsidiary"   = local.subsidiary_tag[each.key]
       "Appcode"      = upper(substr(each.value.name, 7, 3))
       "Region"       = each.value.region
     },
@@ -24,12 +23,7 @@ resource "azurerm_resource_group" "resource_group" {
 locals {
   # Local value for common tags logic
   common_tags = {
-    for rgs in local.all_rgs : rgs.name => try(jsondecode(jsonencode(rgs.tags)), null)
-  }
-
-  # Subsidiary tag logic
-  subsidiary_tag = {
-    for rgs in local.all_rgs : rgs.name => try(lookup(rgs.tags, "Subsidiary", "Excellus"), "Excellus")
+    for rgs in local.all_resource_group : rgs.name => try(jsondecode(jsonencode(rgs.tags)), null)
   }
 
   # Creation date tag
