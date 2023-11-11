@@ -10,7 +10,7 @@ variable "spoke" {
   })
 }
 
-variable "all_rgs" {
+variable "all_resource_group" {
   description = "List of all resource groups with their properties"
   type = list(object({
     name   = string
