@@ -2,7 +2,7 @@
     <tr>
         <!-- Column for Logo -->
         <td style="vertical-align: middle; border: none;">
-            <a href="https://cloudparter.io" target="_blank">
+            <a href="https://cloudformer.io" target="_blank">
                 <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" style="height: 85px;">
             </a>
         </td>
@@ -10,7 +10,7 @@
         <td style="vertical-align: middle; border: none;">
             <div style="font-size: 20px; line-height: 1.2;">
                 <h1 style="font-size: 48px; margin-bottom: 0;">
-                    <a href="https://cloudparter.io" target="_blank" style="color: #FFFFFF; text-decoration: none;">
+                    <a href="https://cloudformer.io" target="_blank" style="color: #FFFFFF; text-decoration: none;">
                         <span style="color: #FFFFFF;">CloudFormer</span>
                     </a>
                 </h1>
