@@ -41,7 +41,6 @@ Manages Azure Resource Groups.
 
 ```hcl
 # file name: 'resource_group.tf'
-# Call module with version
 module "resource_group" {
   source = "https://dev.azure.com/cloudparter/cloudparter/_git/AZR-TF-Modules?path=/resource_group/"#?ref=v1.0.0"   # Use this to tie to specific git reference
   
