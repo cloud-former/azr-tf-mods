@@ -3,7 +3,6 @@ module "resource_group" {
   source = "https://dev.azure.com/cloudparter/cloudparter/_git/AZR-TF-Modules?path=/resource_group/"#?ref=v1.0.0"   # Use this to tie to specific git reference
 
   environment     = var.environment
-  subscription_id = var.subscription_id
   all_resource_group         = var.all_resource_group
 }
 
