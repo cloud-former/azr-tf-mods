@@ -14,13 +14,13 @@
                 </div>
             </div>
         </td>
+        <!-- Spacer Column -->
+        <td style="vertical-align: middle; border: none; padding: 0; width: 100%;"></td>
         <!-- Column for Logo -->
         <td style="vertical-align: middle; border: none; padding: 0; text-align: right;">
-            <div align="right">
-                <a href="https://cloudparter.io" target="_blank">
-                    <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" height="100"/>
-                </a>
-            </div>
+            <a href="https://cloudformer.io" target="_blank">
+                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" height="100"/>
+            </a>
         </td>
     </tr>
 </table>
