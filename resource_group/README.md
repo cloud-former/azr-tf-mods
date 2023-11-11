@@ -5,7 +5,7 @@
             <div style="font-size: 20px; line-height: 1.2; margin: 0;">
                 <h1 style="font-size: 48px; margin: 0;">
                     <a href="https://cloudformer.io" target="_blank" style="color: #FFFFFF; text-decoration: none;">
-                        <span style="color: #FFFFFF;">CloudFormer</span>
+                        <span style="color: #127dbe;">CloudFormer</span>
                     </a>
                 </h1>
                 <div>
