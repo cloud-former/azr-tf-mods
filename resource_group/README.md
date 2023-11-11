@@ -17,7 +17,7 @@
         <!-- Column for Logo -->
         <td style="vertical-align: middle; border: none; padding: 0; text-align: right; white-space: nowrap; width: 80%;">
             <a href="https://cloudformer.io" target="_blank">
-                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" style="height: 85px;">
+                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" style="height: 100px;">
             </a>
         </td>
     </tr>
