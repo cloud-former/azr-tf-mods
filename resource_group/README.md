@@ -1,28 +1,3 @@
-<table border="0" style="width: 100%; border-collapse: collapse; border: none;">
-    <tr>
-        <!-- Column for Logo -->
-        <td style="vertical-align: middle; border: none;">
-            <a href="https://cloudformer.io" target="_blank">
-                <img src="https://raw.githubusercontent.com/cloud-former/logos/main/cloudformer_trans.png" alt="CloudFormer Logo" title="CloudFormer" style="height: 85px;">
-            </a>
-        </td>
-        <!-- Column for Text -->
-        <td style="vertical-align: middle; border: none;">
-            <div style="font-size: 20px; line-height: 1.2;">
-                <h1 style="font-size: 48px; margin-bottom: 0;">
-                    <a href="https://cloudformer.io" target="_blank" style="color: #FFFFFF; text-decoration: none;">
-                        <span style="color: #FFFFFF;">CloudFormer</span>
-                    </a>
-                </h1>
-                <div>
-                    <span style="color: #7466F0; font-weight: bold;">TF Module:</span>&nbsp;
-                    <span style="color: #bac6cf; font-weight: bold;">Azure / Resource Group</span>
-                </div>
-            </div>
-        </td>
-    </tr>
-</table>
-
 <table border="0" style="width: 100%; border-collapse: collapse; padding: 0; margin: 0;">
     <tr>
         <!-- Column for Text -->
@@ -49,6 +24,7 @@
         </td>
     </tr>
 </table>
+
 
 
 
