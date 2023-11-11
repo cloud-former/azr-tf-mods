@@ -12,7 +12,7 @@
                 <h1 style="font-size: 48px; margin-bottom: 0;"><span style="color: #FFFFFF;">CloudFormer</span></h1>
                 <div>
                     <span style="color: #7466F0; font-weight: bold;">TF Module:</span>&nbsp;
-                    <span style="color: #bac6cf; font-weight: bold;">Azure / resource_group</span>
+                    <span style="color: #bac6cf; font-weight: bold;">Azure / Resource Group</span>
                 </div>
             </div>
         </td>
